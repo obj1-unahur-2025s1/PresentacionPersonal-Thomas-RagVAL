@@ -14,3 +14,5 @@ Bienvenidos a mi perfil me llamo:
 - Me gusta mucho lo que es trabajo en equipo
 - Me gusta descubrir cada rama de la programacion
 - Ando aprendiendo a tocar la Guitarra
+
+![Image](https://github.com/user-attachments/assets/07fa2feb-5ea3-48b7-8856-84e70a988177)
