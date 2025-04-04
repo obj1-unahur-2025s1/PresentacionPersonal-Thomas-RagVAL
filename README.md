@@ -1,15 +1,15 @@
 ![Logo UNAHUR](./UNAHUR.png)
 
-# Programación con objetos I
-## Presentación Personal 
+Bienvenidos a mi perfil me llamo:
+# ⭐ Valentin Thomas ⭐
 
-### Datos Personales
-- Mi nombre es: Valentin Thomas Mutti
+## Presentación Personal ⭐
 - Vivo en Rafael Castillo
 - tengo 19 años
+- cumplo el 18 de mayo (si alguno me quiere regalar algo no hay problema JAJA)
 
 
-### Otra Información
+### Otra Información ⭐
 - Este es mi segundo contacto con github
 - Me gusta mucho lo que es trabajo en equipo
 - Me gusta descubrir cada rama de la programacion
